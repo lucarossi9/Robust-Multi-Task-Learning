@@ -27,5 +27,5 @@ Requirements for the needed packages are available in requirements.txt. To insta
 The report in pdf format can be found in under the name "report Luca Rossi.pdf".
 
 ## Acknowledgements
-Thanks to the TML for the amazing supervision during the project.
+Thanks to the TML lab and in particular to my supervisor Etienne Boursier for the amazing supervision during the project.
 
