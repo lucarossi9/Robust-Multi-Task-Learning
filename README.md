@@ -12,9 +12,6 @@ This repository contains the implementation of the experimental section for the 
   * `run_prox.py` - Contains an example of how to optimize with proximal gradient descent.
   * `run_FWT.py` - Contains an example of how to optimize with FWT.
   * `run_AMHT_LRS.py` - Contains an example of how to optimize AMTH_LRS algorithm.
-* `Results` - Folder containing the results of the experiments.
-  * `plot-1-2` - Folder containing the collected results for the first and second plot.
-  * `plot-3` - Folder containing the collected results for the third plot.
 * `report.pdf` - Report pdf file.
 * `requirements.txt` - Requirements text file.
 
