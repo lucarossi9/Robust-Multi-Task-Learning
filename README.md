@@ -24,7 +24,7 @@ Requirements for the needed packages are available in requirements.txt. To insta
 `pip install -r requirements.txt`
 
 ## Report
-The report in pdf format can be found in under the name report.pdf.
+The report in pdf format can be found in under the name "report Luca Rossi.pdf".
 
 ## Acknowledgements
 Thanks to the TML for the amazing supervision during the project.
