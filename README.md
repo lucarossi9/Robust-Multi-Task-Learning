@@ -1,4 +1,4 @@
-# Robust-Multi-Task-Learning# Optimization for Machine Learning Project
+# Robust-Multi-Task-Learning
 
 This repository contains the implementation of the experimental section for the Robust Multi-Task Learning project.
 
